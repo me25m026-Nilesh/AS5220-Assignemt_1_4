@@ -1,0 +1,8 @@
+Out put 
+Function: sin(x)   | MSE: 3.54e-12
+Function: exp(x)   | MSE: 4.00e-12
+Function: cos(x)   | MSE: 1.40e-14
+Function: sinh(x)  | MSE: 3.98e-12
+Function: cosh(x)  | MSE: 1.56e-14
+Function: tanh(x)  | MSE: 6.24e-08
+Function: arcsin(x) | MSE: 1.95e-04
